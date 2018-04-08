@@ -2,10 +2,7 @@
 Intro estilo HGSS para BPRE basada en el template de kaisermg5
 https://github.com/kaisermg5/pokemon-intro-template
 
-
-==============================================
-Original README
-==============================================
+Original README:
 
 # pokemon-intro-template
 A template to make making your custom pokemon intro easier. Working in pokemon fire red, at the moment.  
