@@ -2,6 +2,7 @@
 Intro estilo HGSS para BPRE basada en el template de kaisermg5
 https://github.com/kaisermg5/pokemon-intro-template
 
+
 ==============================================
 Original README
 ==============================================
