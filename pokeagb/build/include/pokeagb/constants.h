@@ -1,0 +1,12 @@
+#ifndef POKEAGB_CONSTANTS_H_
+#define POKEAGB_CONSTANTS_H_
+
+#include "common.h"
+
+POKEAGB_BEGIN_DECL
+
+#define FPS 60
+
+POKEAGB_END_DECL
+
+#endif /* POKEAGB_CONSTANTS_H_ */

@@ -1,0 +1,32 @@
+BG_CNT = 0x04000008;
+REG_DISPCNT = 0x04000000;
+super = 0x030022C0;
+objects = 0x02020630;
+rotscale_empty = 0x082ec6a8;
+gpu_pal_apply_compressed = 0x080A18F4|1;
+lz77UnCompVram = 0x082E708C|1;
+gpu_pal_apply = 0x080A1938|1;
+malloc_and_clear = 0x08000B4C|1;
+vblank_handler_set = 0x080006F0|1;
+task_exec = 0x080A910C|1;
+obj_sync_superstate = 0x08006A0C|1;
+process_palfade = 0x080A1A1C|1;
+gpu_sprites_upload = 0x08007188|1;
+copy_queue_process = 0x0800742C|1;
+gpu_pal_upload = 0x080A19C0|1;
+gpu_pal_decompress_alloc_tag_and_upload = 0x80349c4|1;
+gpu_pal_obj_alloc_tag_and_apply = 0x08008744|1;
+gpu_tile_obj_decompress_alloc_tag_and_upload = 0x8034988|1;
+template_instanciate_forward_search = 0x08006DF4|1;
+free = 0x08000b60|1;
+memcpy = 0x082E93D4|1;
+obj_anim_image_start = 0x080081a8|1;
+obj_delete = 0x08007244|1;
+gpu_pal_tags_index_of = 0x08008804|1;
+objc_exec = 0x080069C0|1;
+memset = 0x082E9434|1;
+fade_screen = 0x080A1AD4|1;
+audio_play = 0x080a3778|1;
+set_callback2 = 0x08000540|1;
+
+
