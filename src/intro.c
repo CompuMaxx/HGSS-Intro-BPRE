@@ -1869,6 +1869,12 @@ bool intro_main()
 		BG2Y_H = 0x0000;
 	}
 	if (key_down(KEY_A | KEY_B | KEY_START) || get_var(0) == 1) {
+		BG2PA = 0x100;
+		BG2PD = 0x100;
+		BG2X_L = 0x0;
+		BG2X_H = 0x0;
+		BG2Y_L = 0x0;
+		BG2Y_H = 0x0;
 		return true;
 	}
 	inc_timer();
